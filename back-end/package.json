@@ -12,7 +12,7 @@
     "cookie": "^0.4.1",
     "cors": "^2.8.5",
     "debug": "^4.3.1",
-    "engine.io": "^4.0.6",
+    "engine.io": "^6.2.1",
     "engine.io-parser": "^4.0.2",
     "mime-db": "^1.45.0",
     "mime-types": "^2.1.28",
